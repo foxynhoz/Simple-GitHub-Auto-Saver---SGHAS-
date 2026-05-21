@@ -37,4 +37,6 @@ Now you got 2 options<br>
 You can also drop it on the local repository to easy acess <b>BUT REMEMBER</b> to include it on your .gitignore file, so it doesnt push along with the repo itself<br>
 It is already configured to compact anything but itself, the local repo configs, or the backup itself to prevent compression stacking<br>
 
+An example of how i personally use it, is to store tools, plugins, pressets, premades, assets, useful stuff into a private repository that i can easily save and backup in case i need it elsewhere<br>
+
 Needless to say, feel free to fork this and do your thing :)
