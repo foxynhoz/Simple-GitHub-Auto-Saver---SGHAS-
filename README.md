@@ -34,4 +34,7 @@ Now you got 2 options<br>
 1 - Press Win + R and type shell:startup, toss the .bat there, and if you done everything correctly, each time you boot your pc it should run itself and backup everything<br>
 2- Use Windows Task Schedule to run it in fixed periods of time<br>
 
+You can also drop it on the local repository to easy acess <b>BUT REMEMBER</b> to include it on your .gitignore file, so it doesnt push along with the repo itself<br>
+It is already configured to compact anything but itself, the local repo configs, or the backup itself to prevent compression stacking<br>
+
 Needless to say, feel free to fork this and do your thing :)
