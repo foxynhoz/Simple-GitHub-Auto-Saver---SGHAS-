@@ -15,7 +15,7 @@ And since its a simple .bat file, feel free to edit it the way it fits better fo
 <h2>How to set up</h2>
 
 1 - Clone your Repository localy<br>
-2 - Right click the .bat file, on the first few lines you should see:<br>
+2 - Right click the .bat file > edit, on the first few lines you should see:<br>
 
 set BackupDir=<br>
 set WINRAR=<br>
