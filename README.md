@@ -27,9 +27,11 @@ set BackupDir=C:\MyBackupFolder<br>
 set WINRAR=C:\Program Files\WinRAR\Rar.exe<br>
 set PASSWORD=YouJustLostTheGame<br>
 
-By default, the Backup will be stored with the repository itself, on its main branch, but you can change it to wherever you wanna save it bellow on the line "git push origin main"
-(My recomendation would be to toss it into a separate branch or just create a secondary repo to store it, but since im trying to keep it basic, again, change it to however you like it)
+By default, the Backup will be stored with the repository itself, on its main branch, but you can change it to wherever you wanna save it bellow on the line "git push origin main"<br>
+(My recomendation would be to toss it into a separate branch or just create a secondary repo to store it, but since im trying to keep it basic, again, change it to however you like it)<br>
 
-Now you got 2 options
-1 - Press Win + R and type shell:startup, toss the .bat there, and if you done everything correctly, each time you boot your pc it should run itself and backup everything
-2- Use Windows Task Schedule to run it in fixed periods of time
+Now you got 2 options<br>
+1 - Press Win + R and type shell:startup, toss the .bat there, and if you done everything correctly, each time you boot your pc it should run itself and backup everything<br>
+2- Use Windows Task Schedule to run it in fixed periods of time<br>
+
+Needless to say, feel free to fork this and do your thing :)
